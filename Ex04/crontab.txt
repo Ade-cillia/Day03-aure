@@ -1,0 +1,4 @@
+SHELL=/bin/sh
+PATH=/bin:/usr/bin:/usr/sbin:/Bureau/Day03-aure/Ex04/scripts/bin
+
+30 07 * * * bash /home/apprenant/Bureau/Day03-aure/Ex04/scripts/bin/backup.sh
